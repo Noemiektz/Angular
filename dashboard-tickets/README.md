@@ -1,6 +1,24 @@
-# DashboardTickets
+# 🎫 Support Client - Tableau de bord de gestion de tickets
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.23.
+Application Frontend réalisée avec **Angular 17+** pour la gestion et le suivi des tickets clients. Elle consomme une API REST simulée via `json-server`.
+
+---
+
+## 🚀 1. Prérequis
+
+Avant de commencer, vérifiez que vous disposez des éléments suivants :
+- **Node.js** : `>= 18.19.0` (LTS recommandée)
+- **npm** : `>= 9.0.0`
+- **Angular CLI** : `>= 17.0.0` (`npm install -g @angular/cli`)
+
+---
+
+## 🛠️ 2. Installation du projet
+
+1. **Cloner le dépôt Git :**
+   ```bash
+   git clone <URL_DU_DEPOT>
+   cd dashboard-tickets
 
 ## Development server
 
@@ -52,8 +70,3 @@ For end-to-end (e2e) testing, run:
 ng e2e
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
